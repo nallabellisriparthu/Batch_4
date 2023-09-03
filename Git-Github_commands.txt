@@ -3,3 +3,5 @@ git init
 git log
 git restore
 git add
+git config --global user.name "your name of github"
+git config --global user.email "your email id of github"
