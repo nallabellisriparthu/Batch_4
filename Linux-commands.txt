@@ -1,0 +1,4 @@
+mkdir <foldername>
+vim <filename.txt>
+pwd ( To show your "present working directory" )
+
