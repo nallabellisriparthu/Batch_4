@@ -5,3 +5,6 @@ git restore
 git add
 git config --global user.name "your name of github"
 git config --global user.email "your email id of github"
+git remote -v
+git log --oneline
+git log --oneline --pretty
