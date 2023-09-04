@@ -1,4 +1,5 @@
 mkdir <foldername>
 vim <filename.txt>
 pwd ( To show your "present working directory" )
-
+cd <folder name>
+ls ( to show all files and folder )
